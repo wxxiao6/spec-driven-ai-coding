@@ -4,7 +4,7 @@ This project provides a set of prompts for Cursor to implement a structured, spe
 
 The primary motivation behind this methodology is to enable a consistent, spec-driven development process across any AI coding assistant. By standardizing the project's rules and specifications, you can seamlessly switch between tools like Kiro, Cursor, Claude, or Gemini without friction. If one assistant gets stuck or hits a limitation, you can simply move to another, confident that your structured coding style remains intact.
 
-For a deep dive into the philosophy and architecture behind this workflow, **[read our upcoming blog post](link-to-your-blog-post)**.
+For a high-level introduction, read the blog post: **[How I Apply Spec-Driven AI Coding](https://finfluencers.trade/blog/2025/07/22/how-i-apply-spec-driven-ai-coding/)**. For a deep dive into the technical philosophy and architecture, see **[METHODOLOGY.md](./METHODOLOGY.md)**.
 
 ## The Core Workflow: Plan & Execute
 
