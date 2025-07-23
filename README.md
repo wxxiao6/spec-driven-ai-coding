@@ -107,7 +107,7 @@ This mode guides you through creating the specification files for a new feature.
 
 **Setup:**
 1.  Create a new custom mode in Cursor called "Planner".
-2.  **Model:** Use a powerful model like Gemini 1.5 Pro or Claude 3 Opus.
+2.  **Model:** Use a powerful model like Gemini 2.5 Pro or OpenAI o3 max.
 3.  **Prompt:** Paste the contents of `planner.md`.
 4.  **Context:** Enable full folder context in settings.
 
@@ -123,7 +123,7 @@ This mode reads the `tasks.md` file and implements the code, one task at a time.
 
 **Setup:**
 1.  Create a new custom mode called "Executor".
-2.  **Model:** Use a fast and capable model like Claude 3.5 Sonnet.
+2.  **Model:** Use a fast and capable model like Claude 4 Sonnet.
 3.  **Prompt:** Paste the contents of `executor.md`.
 4.  **Tools:** Enable all tools.
 5.  **Automation (Optional):** Enable auto-apply edits, auto-run, and auto-fix errors for a more autonomous experience.
