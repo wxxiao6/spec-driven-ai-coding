@@ -140,7 +140,7 @@ This mode helps you create and maintain the global `.ai-rules/` files that steer
 
 **Setup:**
 1.  Create a new custom mode called "Steering Architect".
-2.  **Model:** Use a powerful model (e.g., Gemini 1.5 Pro).
+2.  **Model:** Use a powerful model (e.g., Gemini 2.5 Pro or o3 max).
 3.  **Prompt:** Paste the contents of `steering.md`.
 4.  **Tools:** Enable file editing tools.
 
